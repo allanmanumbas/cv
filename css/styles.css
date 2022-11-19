@@ -1,0 +1,83 @@
+body {
+  background-color: #001253;
+  margin: 0;
+  text-align: center;
+  padding-top: 100px;
+  font-family: 'Merriweather', serif;
+  color: #E14D2A;
+}
+/**********************HEADERS******************************************** */
+h1 {
+font-size: 562.5%;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 50px;
+  font-family: 'Sacramento', cursive;
+  color: #FD841F;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/**********************TOP CONTAINER******************************************** */
+.allanpic {
+  margin-top: 100px;
+  height: 150px;
+  width: 150px;
+  padding-bottom: 50px;
+}
+
+.top-container {
+  background-color: #001253;
+}
+.pro {
+  text-decoration: underline;
+  font-size: 2.5rem;
+  margin-bottom: 100px;
+  color: #FD841F;
+
+}
+
+.intro {
+font-size: 1.875rem;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 200px;
+  line-height: 110%;
+  
+  margin-bottom: 200px;
+ 
+}
+
+.hse {
+  height: 200px;
+  width: 200px;
+
+}
+/**********************MID CONTAINER******************************************** */
+.middle-container {
+  background-color: #5CB8E4;
+  padding-top: 100px;
+}
+
+.p-middiv {
+  padding-bottom: 900px;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+/**********************BOTTOM CONTAINER******************************************** */
+.bottom-container {
+  background-color: #F2F2F2;
+  padding-bottom: 700px;
+}
+
+.time {
+  padding-top: 100px;
+  width: 200px;
+  height: 250px;
+}
